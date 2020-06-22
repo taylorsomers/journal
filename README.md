@@ -1,6 +1,6 @@
-# [Program Title]
+# Journal
 
-  ### By [Author(s)]
+  ### By Taylor Somers
 
 ## Description
 
@@ -27,7 +27,7 @@
 ## Installation
 
   1.  Download a web browser, such as Apple Safari, Brave, Google Chrome, Microsoft Edge, Mozilla Firefox, or Yandex.
-  2.  Navigate to https://github.com/taylorsomers/ping-pong.
+  2.  Navigate to https://github.com/taylorsomers/journal.
   3.  Click the green "Clone or download" button at the right of the screen.
   4.  Select "Download ZIP."
   5.  Use a file extractor or unzip program (such as PeaZip, Unzipper, WinZip, Zipware, or 7-ZIP) to extract the ZIP files onto your computer.
@@ -42,12 +42,12 @@
 
   | Program Behavior | Example Behavior | Example Output |
   |---|---|---|
-  |  |  |  |
-  |  |  |  |
-  |  |  |  |
-  |  |  |  |
-  |  |  |  |
-  |  |  |  |
+  | Program will create and display journal entries when initiated by the user. |  |  |
+  | Program will create and display journal entry word counts for each journal entry. |  |  |
+  | Program will create and display journal entry vowell counts for each journal entry. |  |  |
+  | Program will create and display journal entry consonant counts for each journal entry. |  |  |
+  | Program will create and display a teaser for each journal entry, which teaser will consist of the first eight words of the journal entry. |  |  |
+  | Program will create and display a teaser for each journal entry, which teaser will consist of the entire first sentence of the journal entry *only* if the first sentence is eight words or less. |  |  |
   |  |  |  |
   |  |  |  |
   |  |  |  |
